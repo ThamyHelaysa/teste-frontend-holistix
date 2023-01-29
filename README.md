@@ -35,3 +35,7 @@
 <br>
 
 > **Obs.:** Para gerar um novo arquivo `.css` eh so rodar o comando `npm run css`
+
+<br>
+
+**Made with :black_heart: in a :umbrella: day**
